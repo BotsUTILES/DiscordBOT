@@ -1,0 +1,7 @@
+Hola a todos. 
+Sencillamente deben descargar todo el zip, y descomprimir los node_modules, divididos en 2 partes.
+No tiene absolutamente ningún virus, pueden comprobarlo si quieren.
+
+En el .env deben colocar el token de su bot, creado previamente en developerdiscord.
+Recomiendo visual studio para leer el código e instalar las dependencias.
+Para ejecutar el bot, deben colocar node app.js y si se enciende, ya tienen su bot de MOMO!.
