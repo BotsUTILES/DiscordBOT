@@ -29,7 +29,6 @@ const audioFolder = "audios";
 // Diccionario de palabras clave y rutas
 const audioLinks = {
     'fuego': 'fuego.mp3',
-    'tento': 'tente.mp3',
     'anashei': 'anashei.mp3',
     'pregunta': 'pregunta.mp3',
     'me llama': 'me llama.mp3',
